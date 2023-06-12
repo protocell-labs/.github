@@ -10,7 +10,7 @@
 ### O B S C V R V M
 
 <p align="left">
-  <img src="obscvrvm_preview_456.png" width="300"> 
+  <img src="https://github.com/protocell-labs/.github/blob/main/profile/obscvrvm_preview_456.png" width="300"> 
 </p>
 
 - **Editions**: 500
@@ -23,7 +23,7 @@
 ### Crystalyx
 
 <p align="left">
-  <img src="crystalyx_preview_01.png" width="300">
+  <img src="https://github.com/protocell-labs/.github/blob/main/profile/crystalyx_preview_01.png" width="300">
 </p>
 
 - **Editions**: 250
@@ -36,7 +36,7 @@
 ### Chromoplasm
 
 <p align="left">
-  <img src="chromoplasm_preview_01.png" width="300">
+  <img src="https://github.com/protocell-labs/.github/blob/main/profile/chromoplasm_preview_01.png" width="300">
 </p>
 
 - **Editions**: 250
@@ -49,7 +49,7 @@
 ### Monocell
 
 <p align="left">
-  <img src="monocell_preview_01.png" width="300">
+  <img src="https://github.com/protocell-labs/.github/blob/main/profile/monocell_preview_01.png" width="300">
 </p>
 
 - **Editions**: 250
@@ -64,7 +64,7 @@
 ### Retroids
 
 <p align="left">
-  <img src="protocell_labs-retroid_1_thumbnail.jpg" width="300">
+  <img src="https://github.com/protocell-labs/.github/blob/main/profile/protocell_labs-retroid_1_thumbnail.jpg" width="300">
 </p>
 
 - **Editions**: varied
@@ -76,7 +76,7 @@
 ### ǥᵍłˡŧᵗȼᶜħʰvᵛɍʳsˢ
 
 <p align="left">
-  <img src="gltchvrs_preview_01.png" width="300">
+  <img src="https://github.com/protocell-labs/.github/blob/main/profile/gltchvrs_preview_01.png" width="300">
 </p>
 
 - **Editions**: varied
@@ -88,7 +88,7 @@
 ### Morphogens
 
 <p align="left">
-  <img src="morphogen_003.jpg" width="300">
+  <img src="https://github.com/protocell-labs/.github/blob/main/profile/morphogen_003.jpg" width="300">
 </p>
 
 - **Editions**: varied
@@ -100,7 +100,7 @@
 ### Unfoldings
 
 <p align="left">
-  <img src="grid_strong_transform_5x5x5_dark_200.jpg" width="300">
+  <img src="https://github.com/protocell-labs/.github/blob/main/profile/grid_strong_transform_5x5x5_dark_200.jpg" width="300">
 </p>
 
 - **Editions**: varied
