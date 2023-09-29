@@ -7,6 +7,32 @@
 
 ## Long-form collections
 
+### rtrdgtzr
+
+<p align="left">
+  <img src="https://github.com/protocell-labs/.github/blob/main/profile/rtrdgtzr_preview_01.png" width="300"> 
+</p>
+
+- **Editions**: 257
+- **Released**: August 18, 2023
+- **Chain**: Tezos
+- **Platform**: [fxhash.xyz](https://www.fxhash.xyz/)
+- **Links**: [source](https://github.com/protocell-labs/rtrdgtzr), [fxhash](https://www.fxhash.xyz/generative/slug/rtrdgtzr), [fxfam](https://fxfam.xyz/28552)
+
+
+### Structura
+
+<p align="left">
+  <img src="https://github.com/protocell-labs/.github/blob/main/profile/Structura_preview_01.jpg" width="300"> 
+</p>
+
+- **Editions**: 87
+- **Released**: June 21, 2023
+- **Chain**: Ethereum
+- **Platform**: [verse.works](https://verse.works/)
+- **Links**: [source](https://github.com/protocell-labs/structura), [generator](https://protocell-labs.github.io/structura/), [verse](https://verse.works/artworks/f1059227-34f7-4887-af29-6f8c79632b16)
+
+
 ### O B S C V R V M
 
 <p align="left">
@@ -82,8 +108,8 @@
 - **Editions**: varied
 - **Started**: January 2023
 - **Chain**: Tezos
-- **Platform**: [glitchforge.xyz](https://glitchforge.xyz/)
-- **Links**: [glitchforge](https://glitchforge.xyz/explore), [objkt](https://objkt.com/collection/KT1FofYaetLiyZkFRbrDcmzW4icCTW5M5FXw)
+- **Platform**: glitchforge.xyz (defunct since September 2023)
+- **Links**: [objkt](https://objkt.com/collection/KT1FofYaetLiyZkFRbrDcmzW4icCTW5M5FXw)
 
 ### Morphogens
 
