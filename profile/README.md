@@ -7,6 +7,19 @@
 
 ## Long-form collections
 
+### T E C T O N I C A
+
+<p align="left">
+  <img src="https://github.com/protocell-labs/.github/blob/main/profile/tectonica_preview_01.png" width="300"> 
+</p>
+
+- **Editions**: 200
+- **Released**: February 11, 2024
+- **Chain**: Tezos
+- **Platform**: [fxhash.xyz](https://www.fxhash.xyz/)
+- **Links**: [source](https://github.com/protocell-labs/tectonica), [generator](https://protocell-labs.github.io/tectonica), [fxhash](https://www.fxhash.xyz/generative/slug/t-e-c-t-o-n-i-c-a), [fxfam](https://fxfam.xyz/30286)
+
+
 ### rtrdgtzr
 
 <p align="left">
