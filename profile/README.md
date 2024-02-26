@@ -133,8 +133,8 @@
 - **Editions**: varied
 - **Started**: January 2022
 - **Chain**: Tezos
-- **Platform**: [versum.xyz](https://versum.xyz/)
-- **Links**: [versum](https://versum.xyz/user/tz1Lkgy2gYECvVK55yyiwjbSSZeUoQp8Azxo/created), [objkt](https://objkt.com/profile/luka/created)
+- **Platform**: versum.xyz (defunct since December 2023)
+- **Links**: [objkt](https://objkt.com/profile/luka/created)
 
 ### Unfoldings
 
