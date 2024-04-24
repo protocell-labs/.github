@@ -46,6 +46,19 @@
 - **Links**: [source](https://github.com/protocell-labs/structura), [generator](https://protocell-labs.github.io/structura/), [verse](https://verse.works/artworks/f1059227-34f7-4887-af29-6f8c79632b16)
 
 
+### ǥᵍłˡŧᵗȼᶜħʰvᵛɍʳsˢ
+
+<p align="left">
+  <img src="https://github.com/protocell-labs/.github/blob/main/profile/gltchvrs_preview_01.png" width="300">
+</p>
+
+- **Editions**: varied
+- **Started**: January 2023
+- **Chain**: Tezos
+- **Platform**: glitchforge.xyz (defunct since September 2023)
+- **Links**: [source](https://github.com/protocell-labs/gltchvrs), [objkt](https://objkt.com/collection/KT1FofYaetLiyZkFRbrDcmzW4icCTW5M5FXw)
+
+
 ### O B S C V R V M
 
 <p align="left">
@@ -112,17 +125,6 @@
 - **Platform**: [niftygateway.com](https://www.niftygateway.com/)
 - **Links**: [nifty](https://www.niftygateway.com/marketplace/collection/0x4399af3886a646226c6affcfd6c847c3d1d110cb/6)
 
-### ǥᵍłˡŧᵗȼᶜħʰvᵛɍʳsˢ
-
-<p align="left">
-  <img src="https://github.com/protocell-labs/.github/blob/main/profile/gltchvrs_preview_01.png" width="300">
-</p>
-
-- **Editions**: varied
-- **Started**: January 2023
-- **Chain**: Tezos
-- **Platform**: glitchforge.xyz (defunct since September 2023)
-- **Links**: [objkt](https://objkt.com/collection/KT1FofYaetLiyZkFRbrDcmzW4icCTW5M5FXw)
 
 ### Morphogens
 
